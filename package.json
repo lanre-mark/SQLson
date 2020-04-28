@@ -1,0 +1,35 @@
+{
+  "name": "sqlson",
+  "version": "1.0.0",
+  "description": "a hobby project to add sql query features to hash tables based json database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanre-mark/SQLson.git"
+  },
+  "keywords": [
+    "hashtable",
+    "implementation",
+    "json",
+    "database",
+    "abstract",
+    "syntax",
+    "tree",
+    "etc"
+  ],
+  "author": "Lanre Makinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanre-mark/SQLson/issues"
+  },
+  "homepage": "https://github.com/lanre-mark/SQLson#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.5"
+  }
+}
